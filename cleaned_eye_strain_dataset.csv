@@ -1,0 +1,1370 @@
+Screen_Time_Hours,Breaks_Per_Hour,Eye_Redness,Dry_Eyes,Blurred_Vision,Age,Screen_Brightness,Work_Type,Eye_Strain_Level
+7.0,5,1,1,0,34,59,Casual User,1
+4.0,2,0,0,0,43,96,Software Engineer,1
+11.0,4,0,0,0,31,42,Software Engineer,2
+8.0,5,0,0,1,58,35,Student,1
+5.0,0,1,0,0,53,80,Designer,2
+7.0,0,0,1,1,40,87,Casual User,2
+10.0,0,0,1,1,23,99,Student,2
+3.0,0,1,0,1,22,50,Student,2
+7.0,0,1,0,1,42,72,Designer,3
+11.0,1,0,1,0,35,44,Designer,3
+11.0,5,1,0,0,30,63,Student,2
+8.0,4,0,1,0,31,31,Designer,3
+5.0,2,0,0,0,45,28,Software Engineer,2
+4.0,2,0,0,0,35,31,Software Engineer,2
+8.0,5,0,0,0,45,88,Designer,1
+8.0,5,0,0,1,44,73,Casual User,1
+3.0,2,1,1,0,49,73,Software Engineer,2
+6.0,2,0,0,0,26,47,Casual User,1
+5.0,1,0,0,1,57,75,Software Engineer,2
+2.0,3,0,0,0,49,88,Designer,1
+8.0,4,1,0,0,37,96,Software Engineer,1
+6.0,0,0,0,1,45,77,Casual User,1
+2.0,3,0,0,0,50,97,Casual User,0
+5.0,5,0,1,1,21,94,Student,1
+1.0,2,0,0,0,51,61,Casual User,0
+10.0,3,1,0,1,20,57,Casual User,2
+6.0,4,1,1,0,43,87,Designer,2
+9.0,5,0,0,0,25,72,Student,1
+1.0,0,1,1,0,23,52,Casual User,1
+11.0,0,0,0,1,33,90,Casual User,2
+11.0,4,1,1,0,41,75,Student,2
+10.0,4,0,1,0,56,91,Casual User,1
+3.0,2,0,1,1,47,70,Student,1
+7.0,0,0,1,1,30,93,Student,2
+4.0,5,0,0,0,22,62,Software Engineer,1
+9.0,3,0,1,1,42,34,Software Engineer,3
+3.0,5,0,0,0,37,57,Designer,1
+5.0,1,0,0,0,35,34,Student,1
+3.0,1,1,0,0,35,24,Casual User,2
+7.0,4,0,0,1,19,73,Student,1
+5.0,2,0,0,1,27,70,Student,1
+9.0,1,1,0,0,29,29,Student,3
+7.0,0,0,0,0,30,31,Software Engineer,3
+2.0,5,0,1,0,28,23,Casual User,1
+4.0,5,0,1,1,36,37,Designer,2
+9.0,4,1,0,1,52,99,Casual User,1
+2.0,3,0,0,0,56,55,Student,0
+10.0,4,0,0,1,43,44,Software Engineer,2
+9.0,3,1,0,1,31,95,Software Engineer,2
+10.0,4,1,0,0,41,55,Software Engineer,2
+5.0,4,0,0,0,58,86,Student,0
+2.0,4,0,0,0,18,28,Designer,2
+4.0,3,0,1,1,39,80,Software Engineer,2
+7.0,3,1,0,1,40,72,Designer,3
+8.0,4,0,0,0,36,37,Software Engineer,2
+3.0,1,0,0,1,35,62,Student,1
+1.0,2,1,0,0,29,54,Designer,2
+4.0,2,0,0,0,45,82,Student,0
+2.0,2,0,1,1,45,97,Casual User,0
+8.0,3,0,0,1,50,23,Designer,3
+4.0,3,0,0,0,36,60,Student,1
+2.0,1,0,1,0,45,64,Casual User,1
+6.0,2,0,1,0,54,69,Software Engineer,2
+6.0,2,0,1,0,43,98,Student,1
+10.0,4,0,0,0,52,47,Designer,2
+4.0,3,1,1,0,51,61,Student,1
+6.0,2,0,0,1,52,99,Casual User,0
+2.0,5,1,0,0,57,95,Casual User,0
+10.0,1,0,0,1,33,88,Casual User,1
+2.0,5,1,0,1,55,20,Software Engineer,2
+10.0,5,1,0,0,30,58,Software Engineer,2
+4.0,1,0,0,0,40,36,Designer,2
+8.0,5,1,1,1,39,54,Student,2
+7.0,2,1,1,0,33,65,Software Engineer,3
+9.0,3,0,1,1,45,61,Software Engineer,3
+8.0,1,0,0,1,52,58,Student,2
+5.0,4,0,1,1,25,68,Software Engineer,2
+2.0,5,1,0,1,39,81,Casual User,0
+5.0,1,1,1,0,38,57,Casual User,2
+8.0,0,1,0,0,43,42,Student,2
+10.0,0,0,1,0,57,41,Student,2
+9.0,3,1,0,0,38,23,Student,2
+9.0,2,0,1,0,42,68,Casual User,1
+1.0,3,0,1,0,58,78,Student,0
+9.0,3,0,0,1,18,92,Designer,2
+7.0,3,0,0,0,23,87,Student,1
+9.0,3,0,1,0,40,90,Designer,2
+8.0,4,0,0,0,40,21,Software Engineer,2
+1.0,4,0,1,0,40,68,Designer,1
+8.0,1,0,0,0,49,50,Student,2
+8.0,0,0,0,0,47,59,Designer,2
+11.0,3,0,0,0,30,67,Student,1
+3.0,1,0,0,0,35,70,Designer,2
+1.0,0,0,1,1,40,62,Casual User,1
+8.0,5,0,0,1,32,74,Student,1
+3.0,2,0,0,1,50,68,Casual User,1
+3.0,4,0,0,0,38,99,Software Engineer,0
+1.0,5,0,0,1,56,76,Student,0
+11.0,0,0,1,1,40,96,Software Engineer,3
+5.0,5,0,1,0,44,34,Student,1
+10.0,2,1,0,1,35,46,Designer,4
+7.0,0,0,1,0,41,87,Designer,2
+10.0,5,0,1,1,57,99,Student,1
+9.0,4,0,0,1,59,83,Software Engineer,2
+7.0,4,0,1,0,24,49,Casual User,1
+9.0,1,0,0,1,37,55,Casual User,2
+8.0,5,0,0,0,44,86,Software Engineer,1
+2.0,3,0,1,1,23,68,Casual User,1
+1.0,5,0,0,0,44,95,Software Engineer,0
+7.0,0,0,1,1,26,74,Software Engineer,3
+7.0,0,1,1,0,48,75,Casual User,2
+8.0,5,1,0,0,38,87,Software Engineer,1
+5.0,2,1,1,0,43,63,Software Engineer,2
+3.0,4,1,0,1,57,50,Software Engineer,2
+8.0,0,0,0,1,30,77,Casual User,1
+6.0,4,0,1,1,40,72,Casual User,1
+11.0,0,0,1,1,37,98,Software Engineer,3
+3.0,1,0,0,0,54,42,Software Engineer,2
+1.0,3,1,0,0,45,47,Software Engineer,1
+3.0,0,0,1,0,34,35,Software Engineer,2
+5.0,4,1,1,0,45,56,Student,1
+3.0,1,0,1,0,58,40,Designer,2
+1.0,0,1,0,0,19,98,Software Engineer,1
+5.0,2,0,0,0,42,36,Software Engineer,2
+10.0,3,0,0,0,58,56,Student,1
+7.0,0,0,1,0,23,96,Student,1
+7.0,1,0,0,0,28,38,Casual User,1
+11.0,2,0,0,1,55,49,Software Engineer,3
+9.0,5,0,1,1,23,64,Student,2
+10.0,1,1,0,1,28,37,Software Engineer,4
+10.0,1,0,1,0,31,97,Software Engineer,2
+3.0,2,0,1,0,19,81,Student,1
+7.0,1,0,1,1,57,55,Software Engineer,3
+1.0,2,1,0,0,20,71,Software Engineer,1
+4.0,0,0,0,0,52,38,Software Engineer,2
+4.0,2,0,1,0,50,63,Software Engineer,2
+5.0,2,0,1,0,41,26,Software Engineer,2
+7.0,3,0,1,0,36,63,Casual User,1
+7.0,2,0,0,0,35,87,Software Engineer,1
+11.0,2,0,1,1,41,53,Student,3
+4.0,5,0,1,0,52,85,Student,0
+7.0,0,1,1,0,18,88,Software Engineer,3
+11.0,3,0,1,1,53,74,Designer,3
+3.0,5,0,1,0,42,29,Student,1
+6.0,4,0,1,0,51,61,Designer,2
+2.0,0,1,0,1,42,60,Student,2
+10.0,0,0,0,0,33,96,Software Engineer,2
+9.0,4,1,0,0,51,88,Designer,2
+5.0,2,0,0,0,46,29,Software Engineer,2
+6.0,5,0,0,0,36,29,Software Engineer,2
+4.0,1,0,0,0,40,79,Student,1
+11.0,3,1,0,1,36,70,Designer,3
+10.0,1,0,0,0,42,40,Student,2
+7.0,4,1,1,0,33,27,Casual User,2
+9.0,0,1,1,0,26,84,Student,2
+7.0,0,0,0,0,18,97,Casual User,1
+1.0,3,0,1,0,59,49,Software Engineer,1
+1.0,0,0,0,0,36,68,Designer,1
+9.0,0,0,0,0,50,28,Software Engineer,3
+11.0,3,1,0,0,51,36,Casual User,2
+9.0,5,1,0,0,33,88,Student,1
+4.0,5,0,1,0,57,77,Student,0
+9.0,3,0,1,1,35,76,Software Engineer,2
+3.0,4,1,0,0,51,81,Student,0
+7.0,0,0,0,0,42,71,Student,1
+6.0,0,1,0,0,23,80,Casual User,1
+8.0,4,0,0,1,38,59,Casual User,1
+11.0,5,0,0,0,23,57,Software Engineer,2
+9.0,2,0,0,1,49,62,Casual User,1
+5.0,2,0,1,1,58,82,Software Engineer,2
+1.0,2,0,1,1,56,38,Student,1
+3.0,5,0,0,0,48,69,Designer,1
+10.0,5,0,1,0,59,52,Designer,2
+8.0,4,1,0,1,27,32,Casual User,2
+11.0,0,1,0,1,47,97,Student,2
+6.0,4,0,0,1,35,81,Designer,2
+8.0,4,0,1,0,41,62,Student,1
+9.0,5,0,1,0,26,68,Student,1
+4.0,2,0,1,0,48,55,Student,1
+1.0,1,0,0,1,32,29,Casual User,1
+1.0,0,0,1,0,21,25,Casual User,1
+10.0,5,0,0,0,57,76,Designer,2
+4.0,2,0,1,1,26,20,Software Engineer,3
+7.0,1,0,0,0,26,90,Software Engineer,1
+2.0,1,0,0,1,43,77,Student,1
+3.0,5,1,0,0,21,40,Student,1
+1.0,3,0,1,0,34,99,Software Engineer,1
+5.0,0,0,0,0,33,75,Designer,2
+1.0,1,0,1,1,32,39,Software Engineer,2
+8.0,5,0,0,0,52,73,Student,0
+1.0,5,1,1,0,22,44,Student,1
+11.0,2,0,1,1,22,47,Student,3
+1.0,3,1,1,0,37,24,Software Engineer,2
+2.0,0,0,0,0,32,40,Casual User,1
+2.0,4,0,0,0,35,37,Designer,1
+6.0,2,1,0,0,19,66,Casual User,1
+7.0,1,0,1,0,46,89,Software Engineer,2
+5.0,1,0,0,0,30,76,Software Engineer,1
+1.0,2,0,0,0,21,38,Student,1
+1.0,5,0,0,0,59,84,Casual User,0
+3.0,1,1,0,1,27,22,Designer,3
+2.0,3,0,1,0,48,61,Student,1
+5.0,0,0,0,0,58,40,Software Engineer,2
+10.0,3,0,1,0,25,59,Software Engineer,2
+6.0,1,0,0,0,20,86,Designer,2
+7.0,4,0,0,0,26,44,Casual User,1
+4.0,0,0,0,0,47,74,Software Engineer,1
+7.0,0,0,0,1,28,71,Software Engineer,2
+11.0,2,1,0,0,52,63,Student,2
+8.0,2,0,1,1,54,75,Student,2
+11.0,4,0,0,1,59,74,Student,1
+1.0,5,1,1,0,30,89,Student,0
+6.0,0,0,0,0,53,96,Designer,2
+8.0,4,0,0,0,30,92,Designer,1
+5.0,2,0,1,1,29,100,Student,1
+4.0,2,0,0,0,54,85,Casual User,0
+2.0,0,0,0,0,27,38,Student,1
+6.0,3,1,0,0,26,26,Software Engineer,3
+6.0,1,0,0,1,24,82,Student,1
+11.0,2,0,1,1,19,61,Software Engineer,3
+1.0,5,1,0,0,40,61,Student,0
+9.0,5,0,1,1,56,78,Software Engineer,2
+11.0,2,0,1,0,57,39,Software Engineer,3
+6.0,3,0,0,0,56,92,Casual User,0
+3.0,3,1,1,1,38,36,Student,2
+4.0,4,0,0,0,40,46,Student,1
+11.0,5,0,1,0,46,66,Student,1
+4.0,4,0,0,0,31,21,Designer,2
+3.0,5,0,1,1,43,82,Student,1
+10.0,1,0,0,1,22,81,Casual User,2
+3.0,1,0,0,0,48,38,Software Engineer,2
+3.0,0,1,1,1,42,36,Software Engineer,3
+4.0,4,0,1,0,48,88,Software Engineer,1
+7.0,2,0,0,0,37,58,Student,1
+4.0,4,1,0,0,34,90,Student,0
+9.0,2,1,1,0,19,100,Software Engineer,2
+1.0,3,0,1,0,42,58,Software Engineer,1
+8.0,4,0,1,1,30,55,Student,2
+7.0,3,0,1,0,56,59,Student,1
+2.0,1,1,1,0,45,64,Casual User,1
+8.0,1,1,1,0,59,23,Student,3
+1.0,0,0,0,0,23,44,Casual User,1
+11.0,4,1,0,1,20,88,Designer,3
+9.0,3,0,1,0,52,49,Student,2
+9.0,2,0,1,0,35,95,Student,1
+2.0,1,0,0,1,28,87,Student,1
+7.0,1,1,0,0,37,48,Designer,3
+10.0,2,0,1,0,22,92,Designer,2
+3.0,3,1,0,0,36,87,Designer,1
+7.0,3,1,0,0,39,70,Casual User,1
+10.0,4,1,0,1,36,43,Designer,3
+9.0,4,0,0,1,33,33,Student,2
+4.0,5,0,0,0,41,88,Student,0
+1.0,5,0,0,1,58,37,Casual User,0
+2.0,0,0,0,0,21,61,Student,1
+1.0,1,0,1,0,32,76,Student,1
+5.0,4,1,0,0,42,31,Designer,2
+5.0,3,0,1,0,52,36,Software Engineer,2
+11.0,2,0,1,0,31,49,Casual User,2
+7.0,3,0,0,0,36,94,Designer,1
+9.0,1,0,1,1,55,42,Student,3
+9.0,5,0,0,0,53,100,Casual User,0
+3.0,3,0,1,0,24,20,Student,2
+3.0,0,1,0,0,47,98,Software Engineer,1
+3.0,1,0,1,0,36,51,Software Engineer,2
+4.0,5,1,1,0,42,28,Student,2
+8.0,2,1,0,0,33,34,Software Engineer,3
+6.0,5,0,0,1,57,47,Student,1
+8.0,0,1,1,0,25,43,Software Engineer,3
+1.0,1,0,1,0,35,79,Software Engineer,1
+8.0,2,1,0,0,45,54,Designer,3
+4.0,0,0,1,0,33,46,Casual User,1
+11.0,5,1,0,0,36,95,Student,1
+1.0,0,1,1,1,59,39,Software Engineer,3
+8.0,1,1,0,0,34,84,Software Engineer,2
+4.0,4,1,1,0,30,68,Student,1
+6.0,0,0,0,0,24,20,Designer,3
+8.0,0,0,0,0,44,29,Designer,3
+4.0,5,0,0,0,27,66,Student,0
+3.0,5,0,0,1,51,78,Software Engineer,1
+9.0,2,0,0,0,53,81,Student,1
+3.0,5,0,0,1,42,37,Designer,2
+9.0,3,1,1,0,23,65,Student,2
+2.0,1,0,0,1,41,51,Casual User,1
+2.0,1,1,0,0,35,46,Designer,2
+2.0,4,0,0,1,40,37,Software Engineer,2
+6.0,4,1,0,0,23,58,Software Engineer,2
+3.0,1,1,0,1,46,68,Casual User,1
+9.0,4,0,0,0,42,63,Software Engineer,2
+4.0,2,0,0,0,34,91,Student,0
+1.0,5,1,0,0,41,73,Software Engineer,1
+4.0,1,0,0,1,28,53,Casual User,1
+1.0,4,0,0,0,43,90,Designer,0
+5.0,1,0,0,1,51,55,Designer,2
+4.0,3,0,0,0,45,37,Casual User,1
+8.0,0,0,1,0,20,57,Casual User,2
+8.0,5,0,0,0,28,78,Casual User,0
+7.0,1,0,1,1,55,28,Student,3
+3.0,0,0,0,1,31,92,Software Engineer,1
+1.0,4,1,1,1,43,91,Designer,2
+1.0,0,0,1,0,38,70,Designer,2
+11.0,5,1,0,0,56,54,Designer,3
+3.0,1,0,1,1,47,24,Student,2
+6.0,3,0,0,0,25,33,Designer,2
+7.0,4,0,0,1,37,49,Designer,2
+6.0,1,0,1,1,49,23,Student,3
+6.0,5,0,1,1,39,58,Software Engineer,2
+6.0,4,0,0,1,24,83,Student,1
+3.0,2,0,0,0,26,44,Software Engineer,2
+6.0,0,0,0,0,18,47,Student,2
+8.0,5,0,0,1,46,95,Software Engineer,1
+11.0,2,0,1,0,25,85,Software Engineer,2
+11.0,1,0,0,1,21,97,Designer,3
+2.0,3,1,0,1,52,41,Designer,2
+5.0,4,0,0,0,20,50,Casual User,1
+1.0,0,0,0,1,57,42,Student,1
+1.0,4,1,0,0,24,67,Student,0
+5.0,1,0,1,0,44,39,Casual User,1
+3.0,4,0,1,0,18,57,Student,1
+4.0,0,1,1,0,44,74,Casual User,1
+3.0,1,0,0,0,33,87,Casual User,0
+1.0,4,0,1,0,55,98,Software Engineer,0
+1.0,3,0,1,1,24,20,Casual User,1
+5.0,5,0,1,1,40,26,Student,2
+6.0,1,0,0,0,58,76,Software Engineer,1
+3.0,5,0,0,0,28,31,Designer,2
+9.0,1,0,0,1,59,24,Software Engineer,3
+5.0,3,0,0,0,50,69,Casual User,0
+8.0,5,1,0,0,53,61,Student,1
+1.0,2,1,0,0,54,31,Software Engineer,2
+5.0,0,0,0,0,58,37,Software Engineer,2
+3.0,2,0,1,0,34,85,Designer,1
+1.0,4,0,0,1,52,93,Student,0
+4.0,3,0,0,0,22,98,Software Engineer,1
+5.0,2,0,1,0,49,36,Casual User,1
+7.0,1,0,1,0,20,87,Student,1
+1.0,4,1,1,0,52,90,Casual User,0
+3.0,4,0,1,1,31,81,Software Engineer,1
+2.0,2,0,0,1,48,60,Designer,2
+9.0,2,0,1,1,48,53,Designer,3
+10.0,3,0,0,0,34,89,Student,1
+6.0,0,1,0,1,41,64,Software Engineer,3
+10.0,2,1,0,1,40,77,Casual User,2
+3.0,2,1,0,1,35,70,Software Engineer,2
+8.0,5,0,0,0,31,53,Casual User,1
+8.0,1,0,1,0,32,63,Software Engineer,2
+2.0,5,0,1,0,32,34,Student,1
+6.0,5,0,0,1,23,97,Software Engineer,1
+7.0,4,0,0,0,44,89,Casual User,0
+2.0,0,1,1,0,32,69,Software Engineer,2
+11.0,1,0,1,1,53,51,Casual User,2
+10.0,3,0,0,1,25,86,Casual User,1
+2.0,3,0,1,1,32,22,Software Engineer,2
+10.0,2,0,0,0,20,93,Student,1
+1.0,2,0,0,1,30,70,Designer,2
+8.0,3,1,1,0,58,86,Software Engineer,2
+1.0,2,1,0,0,51,95,Designer,1
+9.0,0,1,0,0,41,67,Software Engineer,3
+11.0,5,0,1,0,57,36,Software Engineer,2
+6.0,2,0,1,0,49,26,Designer,3
+7.0,4,0,0,1,49,32,Software Engineer,2
+10.0,2,0,0,0,47,85,Software Engineer,2
+7.0,1,1,0,1,30,23,Software Engineer,3
+10.0,0,0,1,0,18,29,Software Engineer,3
+3.0,1,0,0,0,51,36,Software Engineer,2
+2.0,1,0,0,0,32,71,Casual User,0
+9.0,4,0,1,0,31,25,Software Engineer,3
+8.0,0,1,0,0,46,88,Software Engineer,2
+10.0,0,0,0,0,51,93,Designer,2
+7.0,0,0,0,0,35,28,Student,2
+9.0,0,0,1,0,24,96,Student,2
+4.0,0,0,0,0,46,40,Casual User,1
+4.0,4,1,0,1,48,43,Designer,2
+1.0,2,1,1,0,42,23,Software Engineer,2
+8.0,1,1,0,1,55,43,Designer,3
+3.0,0,1,0,1,31,78,Student,2
+7.0,2,0,0,1,25,22,Designer,3
+2.0,2,0,0,1,44,87,Software Engineer,1
+2.0,1,0,0,0,19,59,Software Engineer,1
+7.0,4,0,0,1,34,67,Software Engineer,2
+6.0,3,1,0,1,54,73,Student,1
+3.0,3,0,0,0,31,54,Student,1
+9.0,2,1,1,0,42,75,Casual User,2
+10.0,5,0,1,0,47,59,Software Engineer,2
+6.0,5,0,1,1,46,96,Software Engineer,1
+10.0,1,0,1,1,37,87,Student,2
+10.0,3,1,0,0,38,65,Student,2
+6.0,2,0,1,0,39,97,Designer,2
+1.0,4,0,0,0,52,32,Software Engineer,1
+4.0,3,0,1,0,54,46,Software Engineer,2
+10.0,2,0,1,1,33,25,Student,3
+6.0,2,0,1,0,34,36,Designer,3
+6.0,0,1,1,0,33,55,Student,2
+11.0,4,0,0,0,19,100,Student,1
+5.0,0,0,0,1,21,21,Software Engineer,3
+1.0,1,0,0,0,38,96,Student,0
+8.0,0,0,0,1,56,71,Student,2
+5.0,0,1,0,0,51,85,Designer,2
+5.0,3,0,1,0,47,71,Designer,2
+7.0,5,0,1,0,23,62,Casual User,1
+4.0,2,0,0,0,34,41,Software Engineer,2
+6.0,4,1,1,0,56,74,Student,1
+4.0,0,1,1,1,42,86,Student,2
+3.0,4,0,1,1,22,79,Casual User,1
+7.0,5,0,1,1,22,77,Software Engineer,2
+8.0,5,0,0,0,37,31,Designer,2
+4.0,0,1,1,1,33,88,Student,2
+2.0,1,0,1,0,58,58,Software Engineer,2
+10.0,0,0,0,0,54,32,Student,2
+3.0,3,0,0,0,57,60,Software Engineer,1
+1.0,2,0,1,0,26,76,Casual User,0
+8.0,1,0,0,1,22,72,Casual User,1
+3.0,0,1,1,0,59,31,Software Engineer,3
+10.0,4,0,1,0,19,32,Software Engineer,3
+7.0,1,0,0,0,26,93,Casual User,1
+10.0,1,0,0,0,53,76,Designer,2
+5.0,0,1,1,0,39,59,Student,2
+10.0,1,0,0,0,39,99,Software Engineer,2
+5.0,4,1,0,1,39,64,Student,1
+7.0,5,0,0,1,51,54,Software Engineer,2
+9.0,1,0,0,0,46,22,Software Engineer,3
+5.0,5,0,1,0,55,24,Software Engineer,2
+1.0,4,0,0,0,50,30,Software Engineer,1
+10.0,0,0,1,1,35,90,Student,2
+10.0,2,1,0,0,24,75,Software Engineer,2
+1.0,1,0,0,0,18,29,Casual User,1
+2.0,2,0,1,0,50,53,Designer,2
+6.0,4,0,1,0,18,86,Software Engineer,1
+9.0,1,1,0,0,41,91,Casual User,1
+8.0,5,1,0,1,21,50,Casual User,2
+5.0,3,0,0,0,21,94,Student,0
+1.0,2,1,0,0,35,90,Student,0
+7.0,1,0,1,1,44,85,Designer,3
+5.0,2,0,0,1,49,89,Casual User,0
+6.0,1,1,0,0,50,60,Casual User,1
+7.0,0,1,0,0,45,82,Casual User,1
+3.0,5,0,1,0,59,51,Designer,1
+10.0,2,0,1,1,58,39,Software Engineer,3
+3.0,3,0,0,0,53,76,Student,0
+5.0,3,1,1,1,23,69,Student,2
+6.0,4,0,0,1,33,99,Software Engineer,1
+9.0,1,0,0,0,51,44,Designer,3
+5.0,2,0,1,0,40,31,Software Engineer,2
+1.0,4,0,1,0,59,90,Designer,1
+4.0,2,0,1,0,41,58,Student,1
+5.0,1,1,0,0,30,36,Software Engineer,3
+10.0,3,0,0,1,35,64,Student,2
+10.0,0,0,1,1,30,30,Software Engineer,4
+5.0,3,0,0,0,54,89,Designer,1
+7.0,4,1,0,1,56,42,Designer,3
+4.0,5,0,0,0,59,89,Casual User,0
+1.0,0,0,1,0,34,57,Student,1
+5.0,4,1,0,0,32,21,Software Engineer,2
+7.0,1,1,0,0,35,98,Software Engineer,2
+10.0,0,1,1,1,40,91,Software Engineer,3
+10.0,4,1,0,1,47,56,Casual User,2
+6.0,1,0,0,0,51,68,Designer,2
+5.0,3,1,0,0,21,71,Casual User,1
+4.0,5,0,0,0,20,52,Student,0
+2.0,1,1,0,0,24,41,Casual User,1
+4.0,2,1,0,1,35,24,Student,2
+10.0,1,1,1,1,59,37,Casual User,3
+10.0,1,0,0,0,24,57,Software Engineer,2
+3.0,5,0,1,0,57,56,Software Engineer,1
+10.0,2,0,0,0,23,83,Software Engineer,2
+1.0,4,1,0,0,39,29,Casual User,1
+8.0,4,1,0,0,18,98,Student,1
+5.0,1,0,0,0,21,61,Software Engineer,2
+4.0,2,0,1,1,46,67,Casual User,1
+8.0,2,0,0,1,38,63,Software Engineer,2
+7.0,5,1,0,0,43,35,Student,1
+2.0,3,1,1,0,31,73,Software Engineer,2
+1.0,4,0,1,0,26,54,Software Engineer,1
+11.0,5,0,1,0,29,47,Casual User,2
+4.0,0,1,0,1,59,21,Designer,3
+8.0,4,1,1,0,23,32,Software Engineer,3
+2.0,5,0,0,0,37,60,Casual User,0
+3.0,4,0,0,0,41,99,Software Engineer,0
+1.0,3,0,0,1,44,78,Student,0
+1.0,0,0,0,0,55,88,Student,0
+3.0,3,0,0,0,25,72,Software Engineer,1
+11.0,0,0,0,0,18,64,Student,2
+5.0,1,1,1,1,41,39,Casual User,2
+3.0,5,0,0,1,24,43,Designer,2
+1.0,0,1,0,0,36,80,Student,1
+1.0,3,0,0,1,39,77,Software Engineer,1
+8.0,4,0,1,1,52,46,Designer,3
+10.0,0,0,0,1,47,45,Casual User,2
+11.0,5,0,0,0,46,26,Casual User,1
+2.0,0,1,1,0,39,61,Software Engineer,2
+3.0,2,1,1,0,28,66,Designer,2
+2.0,4,0,0,1,37,72,Software Engineer,1
+3.0,5,0,1,0,46,78,Software Engineer,1
+7.0,5,1,1,1,58,57,Student,2
+1.0,1,0,1,0,59,88,Student,0
+10.0,3,0,0,1,51,72,Software Engineer,2
+8.0,1,1,1,1,18,34,Student,3
+10.0,5,0,0,0,48,45,Student,1
+10.0,4,0,0,1,47,67,Designer,2
+10.0,0,0,0,0,35,38,Student,2
+2.0,0,1,0,1,34,28,Software Engineer,3
+3.0,4,0,0,0,55,83,Software Engineer,0
+9.0,5,0,1,0,31,73,Casual User,1
+7.0,0,1,0,1,40,70,Software Engineer,3
+4.0,0,0,0,0,42,58,Student,1
+10.0,0,1,0,1,32,23,Software Engineer,4
+5.0,3,0,0,0,39,22,Casual User,1
+2.0,3,1,1,0,20,83,Casual User,1
+11.0,2,0,0,0,36,48,Software Engineer,2
+8.0,1,0,0,0,51,30,Software Engineer,2
+4.0,4,0,0,0,52,77,Casual User,0
+9.0,4,0,0,0,18,94,Student,1
+5.0,4,1,0,0,38,46,Designer,2
+9.0,2,1,1,0,46,40,Software Engineer,3
+4.0,3,0,1,1,23,58,Student,2
+10.0,5,0,0,1,54,65,Software Engineer,2
+5.0,5,1,1,0,18,85,Student,1
+9.0,2,1,1,1,18,55,Designer,4
+8.0,5,0,1,0,44,94,Casual User,0
+3.0,4,0,0,1,38,84,Student,0
+1.0,1,0,0,1,33,82,Casual User,0
+3.0,0,0,0,1,57,54,Student,1
+4.0,3,0,1,0,43,50,Software Engineer,2
+2.0,3,0,1,1,33,47,Student,1
+1.0,2,0,0,0,45,20,Casual User,1
+7.0,3,1,0,1,18,44,Designer,3
+8.0,4,0,1,0,53,62,Designer,2
+7.0,5,0,1,0,27,86,Casual User,0
+5.0,4,0,1,1,34,82,Designer,2
+1.0,2,0,1,1,40,70,Casual User,1
+7.0,4,0,0,0,24,21,Designer,2
+7.0,5,0,0,1,24,83,Casual User,0
+9.0,1,0,1,0,32,93,Software Engineer,2
+3.0,2,0,0,0,51,88,Student,0
+9.0,1,0,0,0,21,28,Software Engineer,3
+1.0,0,0,1,0,31,21,Student,2
+1.0,1,1,0,0,31,53,Software Engineer,2
+4.0,0,0,1,0,33,79,Software Engineer,2
+9.0,0,1,0,0,24,80,Designer,3
+6.0,1,0,1,0,49,50,Student,2
+11.0,2,0,0,0,36,29,Student,2
+3.0,5,0,0,1,19,95,Software Engineer,1
+1.0,4,0,1,1,27,55,Casual User,1
+4.0,4,1,0,0,34,68,Software Engineer,1
+9.0,5,1,1,0,54,89,Software Engineer,2
+3.0,0,1,1,0,29,68,Designer,3
+9.0,0,0,0,0,23,22,Designer,3
+7.0,2,0,0,1,39,93,Student,1
+4.0,3,0,0,0,49,24,Software Engineer,2
+3.0,1,0,0,0,58,80,Student,0
+10.0,0,0,1,0,37,45,Casual User,2
+5.0,4,0,1,0,18,91,Student,1
+5.0,2,0,1,1,23,24,Software Engineer,3
+3.0,1,0,1,1,36,34,Student,2
+9.0,2,1,0,0,35,35,Student,2
+4.0,1,1,1,0,23,20,Designer,3
+11.0,1,1,1,1,50,35,Student,3
+5.0,5,0,1,1,40,56,Student,1
+4.0,0,0,1,0,40,22,Software Engineer,3
+5.0,2,0,0,0,43,71,Student,1
+7.0,2,1,1,0,30,66,Student,2
+9.0,5,0,0,0,24,32,Casual User,1
+7.0,4,0,0,0,32,99,Designer,1
+5.0,4,1,0,0,44,74,Casual User,0
+10.0,0,0,1,0,43,40,Casual User,2
+10.0,0,0,1,0,50,85,Designer,3
+7.0,3,0,1,1,32,73,Student,2
+10.0,5,0,1,0,53,46,Designer,2
+5.0,4,0,0,0,44,57,Casual User,0
+3.0,1,0,1,0,22,77,Designer,2
+7.0,2,0,0,0,19,81,Software Engineer,1
+11.0,0,0,0,1,50,65,Student,2
+11.0,2,1,0,0,33,30,Casual User,2
+2.0,2,0,1,0,40,91,Designer,1
+9.0,3,0,1,1,55,27,Casual User,2
+10.0,4,0,0,0,33,90,Student,1
+10.0,0,1,0,1,31,83,Student,2
+1.0,2,0,1,0,46,40,Student,1
+6.0,0,0,0,0,43,91,Designer,2
+7.0,1,1,1,0,52,82,Student,2
+8.0,3,1,1,0,32,83,Student,2
+10.0,1,0,0,1,20,39,Casual User,2
+9.0,0,1,0,1,40,27,Student,3
+2.0,0,0,1,0,46,77,Casual User,1
+11.0,4,0,1,0,51,65,Software Engineer,2
+10.0,2,0,0,1,50,50,Casual User,2
+2.0,2,0,1,1,58,28,Software Engineer,2
+5.0,1,1,0,0,58,34,Casual User,2
+5.0,3,0,0,0,40,45,Casual User,1
+6.0,5,0,1,0,24,29,Student,1
+3.0,2,1,1,1,20,48,Student,2
+8.0,4,1,0,0,49,99,Student,1
+1.0,1,0,1,0,48,55,Designer,2
+6.0,1,0,0,1,35,56,Casual User,1
+4.0,5,0,0,0,24,90,Software Engineer,0
+1.0,4,1,0,0,58,42,Designer,2
+7.0,3,0,1,0,18,60,Student,1
+9.0,4,1,0,0,31,99,Casual User,1
+4.0,3,0,0,0,49,47,Casual User,0
+4.0,4,0,0,0,23,67,Student,0
+6.0,4,0,1,0,56,57,Software Engineer,2
+3.0,0,0,1,0,27,50,Student,2
+6.0,1,0,1,1,24,33,Software Engineer,3
+7.0,4,1,0,1,43,92,Software Engineer,2
+11.0,5,0,1,0,51,96,Student,1
+10.0,4,0,0,0,47,48,Software Engineer,2
+10.0,2,1,1,0,53,70,Software Engineer,3
+3.0,1,0,1,0,38,68,Software Engineer,2
+7.0,2,1,0,0,34,62,Software Engineer,2
+3.0,1,0,1,1,50,91,Student,1
+2.0,2,0,0,0,27,24,Designer,2
+10.0,4,0,0,0,59,61,Designer,2
+4.0,4,0,0,0,29,26,Software Engineer,2
+8.0,0,1,0,1,33,61,Student,3
+9.0,5,0,0,0,58,55,Designer,2
+7.0,2,0,1,0,49,46,Casual User,1
+1.0,3,0,0,0,32,77,Student,0
+3.0,0,0,1,1,44,65,Software Engineer,2
+9.0,2,1,0,1,45,85,Student,2
+1.0,2,0,0,0,34,44,Software Engineer,1
+9.0,0,0,1,0,19,92,Student,2
+8.0,4,1,0,0,53,46,Software Engineer,2
+1.0,2,0,0,0,24,20,Designer,2
+6.0,4,1,1,1,30,93,Software Engineer,2
+5.0,0,0,0,1,32,61,Software Engineer,2
+6.0,4,0,0,1,42,71,Software Engineer,1
+10.0,1,0,0,1,40,44,Software Engineer,3
+5.0,3,1,1,0,39,73,Student,1
+6.0,2,1,1,0,43,86,Student,1
+5.0,5,0,1,1,50,25,Casual User,1
+11.0,3,0,1,0,28,77,Student,2
+5.0,4,0,0,1,27,89,Designer,1
+4.0,2,0,0,0,42,72,Casual User,0
+3.0,4,0,1,0,54,85,Student,0
+3.0,1,1,0,1,55,77,Software Engineer,2
+4.0,0,0,0,0,58,21,Software Engineer,2
+9.0,2,0,0,1,41,95,Casual User,1
+2.0,1,0,0,1,57,41,Casual User,1
+9.0,1,0,1,1,50,56,Designer,3
+1.0,2,0,0,1,34,39,Student,1
+1.0,4,0,0,0,41,43,Designer,1
+5.0,5,1,0,1,54,84,Software Engineer,1
+6.0,1,0,1,0,19,84,Software Engineer,2
+6.0,3,0,0,0,49,100,Student,0
+3.0,1,0,0,0,41,20,Student,1
+7.0,5,1,1,0,26,22,Designer,3
+9.0,4,1,1,0,21,65,Software Engineer,3
+11.0,4,0,0,0,34,74,Software Engineer,2
+10.0,3,1,0,0,34,94,Software Engineer,2
+8.0,1,0,0,1,47,83,Casual User,1
+6.0,4,0,0,0,57,64,Designer,1
+8.0,5,0,0,1,28,45,Student,1
+5.0,2,0,0,1,38,96,Student,1
+8.0,0,0,0,1,38,84,Student,2
+10.0,0,1,0,0,35,43,Casual User,2
+4.0,0,1,1,1,46,93,Software Engineer,2
+10.0,1,0,1,0,41,54,Software Engineer,3
+8.0,3,0,1,1,27,43,Software Engineer,3
+10.0,4,0,0,0,34,47,Software Engineer,2
+2.0,2,0,0,1,35,99,Casual User,0
+5.0,5,0,1,1,59,35,Software Engineer,2
+9.0,2,0,0,0,37,78,Student,1
+4.0,5,0,0,0,54,100,Student,0
+11.0,1,1,0,1,35,73,Software Engineer,3
+6.0,0,0,1,0,34,98,Casual User,1
+1.0,1,0,1,1,26,35,Software Engineer,2
+9.0,3,1,0,0,31,34,Casual User,2
+1.0,3,0,0,0,46,30,Designer,1
+5.0,5,0,1,1,48,84,Student,1
+4.0,4,0,0,1,21,98,Student,0
+3.0,4,0,1,1,35,87,Student,1
+6.0,5,1,1,0,37,62,Designer,2
+2.0,3,0,1,1,26,88,Student,1
+3.0,3,0,0,0,30,32,Software Engineer,2
+5.0,3,1,0,0,32,29,Software Engineer,2
+9.0,1,1,0,1,44,94,Designer,3
+2.0,3,1,1,0,32,60,Student,1
+10.0,2,0,1,0,45,69,Software Engineer,2
+8.0,0,0,0,0,54,90,Software Engineer,2
+2.0,3,1,0,1,36,78,Software Engineer,2
+11.0,5,1,1,0,43,58,Casual User,2
+5.0,0,0,1,1,43,22,Student,3
+7.0,1,0,1,0,42,95,Casual User,1
+8.0,5,0,0,0,43,26,Designer,2
+1.0,0,1,0,1,43,68,Software Engineer,2
+6.0,5,0,1,0,45,45,Designer,2
+1.0,1,0,1,0,35,52,Software Engineer,2
+2.0,2,0,0,0,49,67,Student,0
+1.0,1,0,0,0,20,98,Designer,1
+11.0,1,1,0,1,19,21,Software Engineer,4
+5.0,5,0,0,0,50,90,Designer,1
+10.0,4,1,0,1,59,51,Software Engineer,3
+9.0,3,1,1,0,36,23,Casual User,2
+6.0,3,0,0,0,34,39,Software Engineer,2
+11.0,2,0,1,1,50,55,Student,2
+11.0,2,0,0,0,29,51,Software Engineer,2
+1.0,3,1,1,0,20,47,Designer,2
+1.0,4,0,1,0,43,96,Designer,1
+2.0,3,0,0,0,52,20,Software Engineer,1
+9.0,4,1,0,0,25,79,Casual User,1
+3.0,2,0,0,0,53,75,Student,0
+1.0,0,1,0,0,24,54,Software Engineer,2
+5.0,5,0,1,0,53,49,Casual User,1
+7.0,2,0,1,0,33,73,Casual User,1
+6.0,2,0,0,0,41,55,Designer,2
+1.0,1,1,0,0,18,74,Casual User,1
+5.0,1,0,0,1,42,99,Student,1
+5.0,1,1,1,1,27,77,Casual User,2
+6.0,5,1,0,0,33,84,Software Engineer,1
+3.0,1,0,0,1,33,88,Student,1
+5.0,4,1,1,0,25,70,Student,1
+7.0,3,0,1,0,46,41,Software Engineer,2
+5.0,0,0,0,0,56,72,Student,1
+5.0,2,0,1,0,45,55,Software Engineer,2
+5.0,4,1,0,0,23,87,Student,1
+10.0,0,0,0,0,33,55,Student,2
+10.0,4,0,1,0,37,71,Software Engineer,2
+3.0,4,0,1,1,33,72,Software Engineer,2
+1.0,2,0,0,0,24,69,Software Engineer,1
+5.0,3,0,0,0,58,99,Designer,1
+9.0,1,1,0,1,31,60,Casual User,2
+1.0,5,1,0,0,43,37,Designer,2
+3.0,3,0,0,0,43,41,Software Engineer,1
+4.0,5,1,0,1,31,85,Designer,2
+1.0,2,0,0,1,24,40,Student,1
+1.0,2,1,1,1,50,63,Student,2
+8.0,2,0,1,1,43,66,Software Engineer,3
+2.0,0,0,1,1,37,58,Casual User,1
+8.0,5,0,0,1,20,48,Student,1
+7.0,3,1,1,0,21,73,Student,2
+10.0,3,0,1,0,43,36,Student,2
+10.0,4,0,1,0,28,99,Casual User,1
+2.0,4,0,1,0,19,79,Designer,1
+6.0,4,0,1,1,31,50,Student,2
+6.0,2,0,0,0,47,92,Software Engineer,1
+3.0,3,1,0,0,29,97,Software Engineer,1
+11.0,5,1,1,0,43,68,Designer,3
+2.0,2,0,1,1,50,21,Student,2
+1.0,0,1,1,0,30,67,Casual User,1
+6.0,4,0,0,1,31,33,Software Engineer,2
+5.0,2,1,0,0,41,78,Designer,2
+11.0,2,1,0,0,51,77,Student,2
+9.0,0,0,1,0,43,77,Software Engineer,2
+1.0,1,1,0,0,38,70,Software Engineer,1
+7.0,3,0,0,1,45,21,Software Engineer,3
+5.0,5,0,0,1,53,60,Student,1
+5.0,1,1,0,0,57,35,Designer,3
+2.0,4,0,1,0,19,23,Student,1
+11.0,2,0,1,0,59,31,Designer,3
+3.0,0,0,1,1,26,48,Casual User,2
+7.0,0,1,0,1,40,26,Software Engineer,4
+6.0,3,0,1,0,32,33,Designer,3
+2.0,1,0,0,0,30,31,Designer,2
+6.0,3,1,1,1,40,24,Software Engineer,3
+2.0,2,1,0,0,34,100,Casual User,0
+2.0,3,0,0,0,19,51,Student,1
+2.0,5,0,1,0,37,93,Software Engineer,0
+11.0,0,0,1,0,37,62,Designer,3
+3.0,0,0,0,1,20,100,Software Engineer,1
+2.0,4,0,1,1,29,88,Software Engineer,1
+4.0,4,1,0,0,57,64,Software Engineer,1
+9.0,2,0,0,0,19,28,Casual User,2
+6.0,5,0,0,0,53,68,Casual User,0
+1.0,1,0,0,0,31,52,Software Engineer,1
+8.0,3,1,0,0,33,37,Designer,3
+7.0,2,0,0,0,36,28,Casual User,1
+10.0,4,1,0,0,51,81,Student,1
+3.0,3,0,1,0,23,76,Student,1
+1.0,4,0,0,0,30,48,Designer,1
+5.0,3,0,1,0,53,97,Casual User,0
+4.0,1,0,0,0,39,44,Casual User,1
+10.0,2,0,1,0,35,34,Software Engineer,3
+8.0,3,0,0,1,29,25,Student,2
+1.0,5,0,0,0,47,61,Software Engineer,0
+10.0,0,1,0,0,57,48,Student,2
+1.0,5,0,0,1,24,98,Student,0
+4.0,5,1,0,1,49,23,Designer,3
+8.0,0,0,1,0,36,76,Student,2
+5.0,5,0,1,1,23,68,Casual User,1
+2.0,3,0,1,0,37,63,Software Engineer,1
+6.0,3,0,1,0,44,99,Software Engineer,1
+5.0,3,0,0,0,54,94,Student,0
+2.0,0,0,0,1,24,33,Software Engineer,2
+11.0,5,0,0,1,22,22,Student,2
+11.0,0,0,0,0,28,81,Casual User,1
+11.0,3,0,0,0,32,83,Casual User,1
+3.0,5,1,0,0,20,64,Software Engineer,1
+9.0,5,1,0,0,22,77,Student,1
+7.0,4,1,0,0,40,39,Casual User,1
+7.0,4,1,1,1,54,77,Software Engineer,2
+11.0,1,0,1,1,26,76,Student,2
+6.0,2,0,0,1,32,96,Software Engineer,1
+8.0,4,1,1,1,20,87,Casual User,2
+4.0,0,0,1,0,46,97,Student,1
+8.0,4,0,0,1,23,71,Student,1
+4.0,1,0,0,0,34,56,Casual User,1
+8.0,5,0,0,0,43,27,Student,1
+9.0,1,0,1,0,38,63,Student,2
+3.0,5,1,1,0,25,24,Software Engineer,2
+3.0,5,0,0,0,38,88,Casual User,0
+11.0,2,0,0,0,28,50,Software Engineer,2
+2.0,4,1,0,1,55,64,Casual User,1
+10.0,0,0,0,0,25,28,Designer,3
+3.0,0,0,0,0,59,51,Student,1
+3.0,3,0,1,1,41,52,Casual User,1
+5.0,5,1,1,0,52,86,Software Engineer,1
+5.0,0,1,1,0,31,49,Student,2
+2.0,2,0,1,0,31,95,Software Engineer,1
+10.0,5,1,1,0,27,48,Software Engineer,3
+6.0,2,0,0,0,29,22,Student,2
+5.0,0,1,1,0,55,76,Student,2
+6.0,0,1,0,0,51,49,Software Engineer,3
+1.0,3,1,1,0,58,28,Casual User,1
+5.0,0,0,0,0,27,45,Software Engineer,2
+9.0,5,1,1,0,34,21,Casual User,2
+10.0,5,1,0,0,34,81,Student,1
+2.0,5,0,0,1,20,22,Student,1
+1.0,3,1,0,0,48,65,Student,0
+10.0,3,0,0,0,18,87,Student,1
+11.0,0,1,1,1,29,44,Student,4
+9.0,1,0,1,0,56,70,Designer,3
+10.0,1,1,0,0,21,32,Casual User,2
+9.0,3,0,0,0,59,63,Casual User,1
+9.0,0,0,0,1,30,54,Student,2
+6.0,1,0,0,1,51,74,Casual User,1
+8.0,0,0,0,0,59,28,Software Engineer,3
+11.0,0,0,1,1,38,21,Student,3
+1.0,0,0,0,0,39,80,Casual User,0
+10.0,4,0,0,0,21,60,Designer,2
+4.0,5,0,0,0,35,63,Student,0
+1.0,0,0,0,0,22,83,Software Engineer,1
+8.0,4,1,0,1,36,50,Student,2
+1.0,3,0,1,0,19,66,Designer,1
+3.0,1,1,0,0,29,21,Software Engineer,3
+4.0,5,1,0,1,34,96,Casual User,0
+8.0,1,0,0,0,27,88,Student,1
+6.0,5,0,0,0,51,77,Software Engineer,1
+10.0,1,1,0,0,23,63,Software Engineer,3
+7.0,5,0,1,1,25,93,Software Engineer,2
+8.0,1,0,1,1,28,75,Software Engineer,3
+2.0,1,0,0,0,29,62,Designer,2
+10.0,1,1,0,1,26,53,Casual User,3
+11.0,1,0,0,0,19,49,Casual User,2
+8.0,3,0,0,1,25,90,Casual User,1
+3.0,0,1,1,0,28,89,Casual User,1
+7.0,2,1,1,0,53,74,Software Engineer,2
+3.0,4,0,0,1,27,86,Casual User,0
+7.0,2,0,0,0,38,32,Software Engineer,2
+11.0,2,1,0,0,37,22,Software Engineer,3
+2.0,5,0,1,0,25,45,Software Engineer,1
+10.0,0,0,1,1,53,76,Software Engineer,3
+6.0,5,0,0,0,46,43,Student,1
+3.0,0,1,0,0,59,72,Casual User,1
+3.0,0,0,1,0,29,89,Software Engineer,1
+9.0,1,1,0,0,31,62,Student,2
+7.0,3,1,0,0,38,79,Software Engineer,2
+5.0,1,0,0,1,39,77,Student,1
+10.0,3,0,1,1,38,68,Student,2
+7.0,5,0,0,0,47,61,Student,1
+9.0,3,0,0,0,56,95,Software Engineer,1
+1.0,5,0,1,0,37,85,Software Engineer,0
+7.0,2,1,0,0,41,30,Designer,3
+6.0,2,0,0,1,40,37,Designer,3
+10.0,3,1,0,0,24,71,Software Engineer,2
+9.0,3,0,0,0,26,65,Software Engineer,2
+1.0,5,0,1,1,18,63,Software Engineer,1
+4.0,1,0,0,0,43,41,Designer,2
+9.0,5,0,0,0,55,72,Student,1
+4.0,1,1,0,0,55,78,Student,1
+10.0,2,0,1,1,39,49,Designer,3
+3.0,0,0,1,1,27,27,Software Engineer,3
+9.0,3,0,0,0,23,76,Student,1
+2.0,1,0,0,1,34,92,Student,1
+4.0,5,0,1,0,55,39,Casual User,1
+6.0,2,0,0,0,41,44,Casual User,1
+2.0,1,1,1,0,27,38,Designer,3
+8.0,5,0,1,0,25,24,Software Engineer,2
+8.0,3,1,1,0,38,94,Software Engineer,2
+1.0,3,0,0,0,23,98,Casual User,0
+3.0,4,0,0,0,38,91,Casual User,0
+10.0,0,0,1,0,56,46,Student,2
+9.0,4,0,0,0,41,59,Casual User,1
+5.0,2,0,0,1,50,45,Student,1
+6.0,1,0,1,0,35,46,Student,2
+4.0,2,0,1,0,45,81,Designer,2
+10.0,5,0,0,0,49,69,Software Engineer,1
+2.0,3,0,0,0,29,61,Casual User,0
+11.0,4,1,0,1,59,48,Student,2
+8.0,4,0,1,0,44,58,Software Engineer,2
+11.0,4,0,1,0,27,79,Casual User,1
+6.0,2,0,0,1,59,60,Casual User,1
+5.0,3,0,0,0,49,52,Student,1
+9.0,1,0,1,0,59,35,Software Engineer,3
+1.0,5,0,0,0,43,42,Designer,1
+5.0,1,0,0,1,42,26,Student,2
+6.0,2,0,1,0,28,45,Casual User,1
+5.0,5,0,0,0,40,31,Casual User,1
+6.0,4,0,1,0,51,91,Student,0
+6.0,0,0,0,0,57,24,Student,2
+7.0,2,0,0,0,40,88,Student,1
+4.0,2,0,1,0,46,68,Casual User,1
+11.0,3,1,0,0,48,45,Student,2
+8.0,1,0,1,1,24,24,Software Engineer,4
+7.0,2,0,0,1,57,41,Software Engineer,2
+9.0,2,0,0,0,50,98,Software Engineer,1
+7.0,4,1,0,1,38,32,Student,2
+3.0,4,0,0,0,19,47,Student,1
+3.0,5,0,0,0,35,52,Casual User,0
+8.0,0,0,0,0,50,42,Casual User,2
+5.0,3,0,0,1,54,37,Designer,2
+4.0,0,0,0,1,51,49,Student,2
+8.0,5,0,1,0,37,45,Software Engineer,2
+6.0,4,1,1,1,52,35,Designer,3
+2.0,1,0,1,0,35,96,Student,0
+4.0,4,1,0,1,41,58,Casual User,1
+11.0,3,1,0,1,25,52,Designer,4
+4.0,4,0,1,0,47,45,Student,1
+6.0,3,0,0,1,27,67,Casual User,1
+6.0,3,0,0,0,40,84,Casual User,0
+1.0,3,0,1,0,28,57,Student,1
+8.0,5,0,1,0,19,21,Software Engineer,3
+6.0,3,1,0,0,43,25,Software Engineer,2
+3.0,3,1,0,1,53,65,Software Engineer,2
+9.0,1,0,1,1,50,69,Student,2
+2.0,0,0,0,0,30,57,Software Engineer,1
+11.0,2,1,1,1,57,37,Casual User,3
+8.0,0,1,1,1,42,46,Software Engineer,4
+10.0,3,1,1,0,21,60,Student,2
+3.0,1,0,0,1,59,91,Designer,1
+5.0,4,0,0,0,36,93,Software Engineer,1
+6.0,1,0,1,1,35,36,Casual User,2
+10.0,3,0,1,0,54,81,Software Engineer,2
+6.0,1,0,1,0,47,48,Student,2
+4.0,1,0,0,0,36,77,Student,1
+3.0,3,0,0,0,40,89,Designer,1
+4.0,5,0,1,0,33,97,Student,0
+1.0,1,0,1,0,18,41,Designer,2
+4.0,2,0,1,0,29,25,Student,2
+1.0,2,0,1,1,41,45,Software Engineer,2
+1.0,1,0,0,0,51,58,Software Engineer,1
+10.0,5,0,1,0,25,31,Casual User,2
+6.0,4,1,1,0,35,33,Casual User,2
+5.0,3,0,0,0,22,41,Student,1
+11.0,2,0,1,1,43,70,Software Engineer,3
+4.0,4,0,0,1,47,42,Student,1
+11.0,1,1,0,0,30,67,Software Engineer,3
+3.0,4,0,1,0,36,90,Software Engineer,1
+1.0,0,0,0,1,46,69,Casual User,1
+6.0,2,0,0,0,20,32,Casual User,1
+2.0,1,0,0,1,43,29,Software Engineer,2
+8.0,3,0,0,0,57,74,Software Engineer,1
+10.0,5,0,0,1,29,28,Casual User,2
+5.0,1,1,0,0,19,98,Casual User,1
+7.0,3,0,1,0,28,71,Student,1
+10.0,5,1,0,1,45,21,Software Engineer,3
+2.0,5,1,0,0,35,44,Software Engineer,1
+8.0,1,0,0,0,30,32,Student,2
+2.0,4,1,1,0,54,70,Student,1
+4.0,4,0,0,0,39,77,Student,0
+1.0,5,0,1,0,29,53,Designer,1
+5.0,4,0,1,0,19,54,Student,1
+9.0,0,0,1,0,54,22,Student,3
+1.0,5,0,0,0,24,78,Student,0
+9.0,5,0,1,1,43,89,Casual User,1
+11.0,3,0,0,0,43,67,Casual User,1
+8.0,4,0,1,0,41,83,Software Engineer,2
+6.0,5,0,1,1,29,38,Software Engineer,2
+7.0,0,0,0,0,33,86,Casual User,1
+3.0,3,0,0,0,40,92,Student,0
+1.0,1,0,0,0,57,95,Student,0
+5.0,5,1,1,0,26,24,Student,2
+2.0,0,0,0,0,49,86,Student,0
+5.0,2,1,0,0,32,30,Software Engineer,2
+8.0,0,0,0,0,54,87,Casual User,1
+11.0,0,0,1,0,30,88,Designer,3
+9.0,3,0,1,0,22,20,Software Engineer,3
+2.0,1,0,1,0,28,82,Casual User,0
+3.0,2,0,1,0,27,48,Student,1
+3.0,4,1,0,1,30,31,Student,2
+1.0,4,0,0,0,58,96,Software Engineer,0
+8.0,0,1,1,0,32,60,Designer,3
+6.0,3,1,0,0,59,21,Student,2
+8.0,3,1,0,0,24,56,Software Engineer,2
+11.0,4,1,0,0,57,64,Designer,3
+9.0,2,0,0,0,45,99,Designer,2
+5.0,1,0,0,1,49,67,Designer,2
+3.0,2,0,1,0,52,43,Software Engineer,2
+5.0,5,0,0,1,32,41,Student,1
+5.0,5,0,0,0,53,30,Software Engineer,1
+5.0,1,1,0,0,38,77,Student,1
+3.0,4,0,1,0,23,65,Casual User,0
+11.0,1,0,0,0,18,48,Software Engineer,3
+10.0,3,0,1,0,21,54,Software Engineer,3
+4.0,5,0,1,0,28,34,Designer,2
+9.0,0,0,0,0,43,79,Software Engineer,2
+10.0,0,1,1,1,54,61,Software Engineer,4
+9.0,4,0,1,1,40,62,Casual User,2
+2.0,3,0,1,0,46,99,Casual User,0
+8.0,2,0,1,0,38,93,Designer,2
+8.0,3,0,0,0,44,68,Student,1
+6.0,0,1,1,1,33,75,Software Engineer,4
+6.0,0,1,1,1,30,97,Software Engineer,4
+6.0,0,1,1,1,35,86,Software Engineer,4
+6.0,0,1,1,1,27,74,Software Engineer,4
+6.0,0,1,1,1,36,74,Software Engineer,4
+6.0,0,1,1,1,34,75,Software Engineer,4
+6.0,0,1,1,1,41,72,Software Engineer,4
+6.0,0,1,1,1,36,90,Software Engineer,4
+6.0,0,1,1,1,43,92,Software Engineer,4
+6.0,0,1,1,1,40,74,Software Engineer,4
+6.0,0,1,1,1,43,90,Software Engineer,4
+6.0,0,1,1,1,22,74,Software Engineer,4
+6.0,0,1,1,1,43,79,Software Engineer,4
+6.0,0,1,1,1,38,79,Software Engineer,4
+6.0,0,1,1,1,40,88,Software Engineer,4
+6.0,0,1,1,1,26,86,Software Engineer,4
+6.0,0,1,1,1,29,90,Software Engineer,4
+6.0,0,1,1,1,38,83,Software Engineer,4
+6.0,0,1,1,1,18,78,Software Engineer,4
+6.0,0,1,1,1,43,83,Software Engineer,4
+6.0,0,1,1,1,43,70,Software Engineer,4
+6.0,0,1,1,1,18,88,Software Engineer,4
+6.0,0,1,1,1,32,82,Software Engineer,4
+6.0,0,1,1,1,19,82,Software Engineer,4
+6.0,0,1,1,1,39,73,Software Engineer,4
+6.0,0,1,1,1,33,99,Software Engineer,4
+6.0,0,1,1,1,42,70,Software Engineer,4
+6.0,0,1,1,1,25,86,Software Engineer,4
+6.0,0,1,1,1,30,77,Software Engineer,4
+6.0,0,1,1,1,38,71,Software Engineer,4
+6.0,0,1,1,1,18,97,Software Engineer,4
+6.0,0,1,1,1,33,77,Software Engineer,4
+6.0,0,1,1,1,24,76,Software Engineer,4
+6.0,0,1,1,1,22,95,Software Engineer,4
+6.0,0,1,1,1,39,95,Software Engineer,4
+6.0,0,1,1,1,40,71,Software Engineer,4
+6.0,0,1,1,1,20,91,Software Engineer,4
+6.0,0,1,1,1,29,91,Software Engineer,4
+6.0,0,1,1,1,43,72,Software Engineer,4
+6.0,0,1,1,1,33,96,Software Engineer,4
+6.0,0,1,1,1,36,87,Software Engineer,4
+6.0,0,1,1,1,22,81,Software Engineer,4
+6.0,0,1,1,1,39,70,Software Engineer,4
+6.0,0,1,1,1,42,91,Software Engineer,4
+6.0,0,1,1,1,31,81,Software Engineer,4
+6.0,0,1,1,1,22,74,Software Engineer,4
+6.0,0,1,1,1,32,99,Software Engineer,4
+6.0,0,1,1,1,34,99,Software Engineer,4
+6.0,0,1,1,1,31,96,Software Engineer,4
+6.0,0,1,1,1,37,94,Software Engineer,4
+6.0,0,1,1,1,22,86,Software Engineer,4
+6.0,0,1,1,1,29,85,Software Engineer,4
+6.0,0,1,1,1,33,84,Software Engineer,4
+6.0,0,1,1,1,43,92,Software Engineer,4
+6.0,0,1,1,1,43,84,Software Engineer,4
+6.0,0,1,1,1,33,74,Software Engineer,4
+6.0,0,1,1,1,38,90,Software Engineer,4
+6.0,0,1,1,1,24,83,Software Engineer,4
+6.0,0,1,1,1,21,71,Software Engineer,4
+6.0,0,1,1,1,18,80,Software Engineer,4
+6.0,0,1,1,1,22,88,Software Engineer,4
+6.0,0,1,1,1,40,76,Software Engineer,4
+6.0,0,1,1,1,43,75,Software Engineer,4
+6.0,0,1,1,1,27,97,Software Engineer,4
+6.0,0,1,1,1,39,71,Software Engineer,4
+6.0,0,1,1,1,22,75,Software Engineer,4
+6.0,0,1,1,1,21,87,Software Engineer,4
+6.0,0,1,1,1,19,71,Software Engineer,4
+6.0,0,1,1,1,37,87,Software Engineer,4
+6.0,0,1,1,1,27,99,Software Engineer,4
+6.0,0,1,1,1,43,84,Software Engineer,4
+6.0,0,1,1,1,36,96,Software Engineer,4
+6.0,0,1,1,1,43,88,Software Engineer,4
+6.0,0,1,1,1,18,71,Software Engineer,4
+6.0,0,1,1,1,41,89,Software Engineer,4
+6.0,0,1,1,1,22,94,Software Engineer,4
+6.0,0,1,1,1,30,75,Software Engineer,4
+6.0,0,1,1,1,21,70,Software Engineer,4
+6.0,0,1,1,1,33,93,Software Engineer,4
+6.0,0,1,1,1,41,84,Software Engineer,4
+6.0,0,1,1,1,33,97,Software Engineer,4
+6.0,0,1,1,1,40,99,Software Engineer,4
+6.0,0,1,1,1,19,92,Software Engineer,4
+6.0,0,1,1,1,34,79,Software Engineer,4
+6.0,0,1,1,1,44,88,Software Engineer,4
+6.0,0,1,1,1,37,86,Software Engineer,4
+6.0,0,1,1,1,41,74,Software Engineer,4
+6.0,0,1,1,1,29,98,Software Engineer,4
+6.0,0,1,1,1,35,73,Software Engineer,4
+6.0,0,1,1,1,20,79,Software Engineer,4
+6.0,0,1,1,1,18,93,Software Engineer,4
+6.0,0,1,1,1,18,86,Software Engineer,4
+6.0,0,1,1,1,36,79,Software Engineer,4
+6.0,0,1,1,1,28,86,Software Engineer,4
+6.0,0,1,1,1,22,97,Software Engineer,4
+6.0,0,1,1,1,29,89,Software Engineer,4
+6.0,0,1,1,1,20,93,Software Engineer,4
+6.0,0,1,1,1,18,74,Software Engineer,4
+6.0,0,1,1,1,18,71,Software Engineer,4
+6.0,0,1,1,1,25,75,Software Engineer,4
+6.0,0,1,1,1,27,90,Software Engineer,4
+6.0,0,1,1,1,28,71,Software Engineer,4
+6.0,0,1,1,1,29,82,Software Engineer,4
+6.0,0,1,1,1,30,99,Software Engineer,4
+6.0,0,1,1,1,29,80,Software Engineer,4
+6.0,0,1,1,1,31,80,Software Engineer,4
+6.0,0,1,1,1,19,85,Software Engineer,4
+6.0,0,1,1,1,36,80,Software Engineer,4
+6.0,0,1,1,1,35,88,Software Engineer,4
+6.0,0,1,1,1,20,84,Software Engineer,4
+6.0,0,1,1,1,40,94,Software Engineer,4
+6.0,0,1,1,1,34,92,Software Engineer,4
+6.0,0,1,1,1,43,92,Software Engineer,4
+6.0,0,1,1,1,25,85,Software Engineer,4
+6.0,0,1,1,1,43,80,Software Engineer,4
+6.0,0,1,1,1,27,91,Software Engineer,4
+6.0,0,1,1,1,43,85,Software Engineer,4
+6.0,0,1,1,1,19,77,Software Engineer,4
+6.0,0,1,1,1,36,73,Software Engineer,4
+6.0,0,1,1,1,26,77,Software Engineer,4
+6.0,0,1,1,1,24,73,Software Engineer,4
+6.0,0,1,1,1,21,93,Software Engineer,4
+6.0,0,1,1,1,43,94,Software Engineer,4
+6.0,0,1,1,1,38,72,Software Engineer,4
+6.0,0,1,1,1,35,72,Software Engineer,4
+6.0,0,1,1,1,30,96,Software Engineer,4
+6.0,0,1,1,1,28,98,Software Engineer,4
+6.0,0,1,1,1,41,87,Software Engineer,4
+6.0,0,1,1,1,21,98,Software Engineer,4
+6.0,0,1,1,1,42,95,Software Engineer,4
+6.0,0,1,1,1,38,88,Software Engineer,4
+6.0,0,1,1,1,42,88,Software Engineer,4
+6.0,0,1,1,1,21,90,Software Engineer,4
+6.0,0,1,1,1,27,74,Software Engineer,4
+6.0,0,1,1,1,22,87,Software Engineer,4
+6.0,0,1,1,1,26,97,Software Engineer,4
+6.0,0,1,1,1,41,79,Software Engineer,4
+6.0,0,1,1,1,20,98,Software Engineer,4
+6.0,0,1,1,1,34,91,Software Engineer,4
+6.0,0,1,1,1,20,90,Software Engineer,4
+6.0,0,1,1,1,33,75,Software Engineer,4
+6.0,0,1,1,1,21,70,Software Engineer,4
+6.0,0,1,1,1,35,74,Software Engineer,4
+6.0,0,1,1,1,34,78,Software Engineer,4
+6.0,0,1,1,1,24,81,Software Engineer,4
+6.0,0,1,1,1,41,95,Software Engineer,4
+6.0,0,1,1,1,40,83,Software Engineer,4
+6.0,0,1,1,1,22,71,Software Engineer,4
+6.0,0,1,1,1,29,86,Software Engineer,4
+6.0,0,1,1,1,34,83,Software Engineer,4
+6.0,0,1,1,1,40,95,Software Engineer,4
+6.0,0,1,1,1,30,82,Software Engineer,4
+6.0,0,1,1,1,40,96,Software Engineer,4
+6.0,0,1,1,1,42,78,Software Engineer,4
+6.0,0,1,1,1,20,95,Software Engineer,4
+6.0,0,1,1,1,26,94,Software Engineer,4
+6.0,0,1,1,1,34,84,Software Engineer,4
+6.0,0,1,1,1,34,94,Software Engineer,4
+6.0,0,1,1,1,37,91,Software Engineer,4
+6.0,0,1,1,1,33,84,Software Engineer,4
+6.0,0,1,1,1,42,93,Software Engineer,4
+6.0,0,1,1,1,39,99,Software Engineer,4
+6.0,0,1,1,1,30,80,Software Engineer,4
+6.0,0,1,1,1,44,85,Software Engineer,4
+6.0,0,1,1,1,36,98,Software Engineer,4
+6.0,0,1,1,1,34,86,Software Engineer,4
+6.0,0,1,1,1,21,95,Software Engineer,4
+6.0,0,1,1,1,29,73,Software Engineer,4
+6.0,0,1,1,1,26,70,Software Engineer,4
+6.0,0,1,1,1,36,77,Software Engineer,4
+6.0,0,1,1,1,29,86,Software Engineer,4
+6.0,0,1,1,1,26,72,Software Engineer,4
+6.0,0,1,1,1,24,98,Software Engineer,4
+6.0,0,1,1,1,31,89,Software Engineer,4
+6.0,0,1,1,1,37,84,Software Engineer,4
+6.0,0,1,1,1,36,84,Software Engineer,4
+6.0,0,1,1,1,43,93,Software Engineer,4
+6.0,0,1,1,1,32,91,Software Engineer,4
+6.0,0,1,1,1,33,83,Software Engineer,4
+6.0,0,1,1,1,38,95,Software Engineer,4
+6.0,0,1,1,1,22,97,Software Engineer,4
+6.0,0,1,1,1,20,92,Software Engineer,4
+6.0,0,1,1,1,29,83,Software Engineer,4
+6.0,0,1,1,1,42,93,Software Engineer,4
+6.0,0,1,1,1,37,71,Software Engineer,4
+6.0,0,1,1,1,44,82,Software Engineer,4
+6.0,0,1,1,1,38,95,Software Engineer,4
+6.0,0,1,1,1,21,83,Software Engineer,4
+6.0,0,1,1,1,38,96,Software Engineer,4
+6.0,0,1,1,1,40,93,Software Engineer,4
+6.0,0,1,1,1,33,88,Software Engineer,4
+6.0,0,1,1,1,42,76,Software Engineer,4
+6.0,0,1,1,1,24,72,Software Engineer,4
+6.0,0,1,1,1,30,84,Software Engineer,4
+6.0,0,1,1,1,38,92,Software Engineer,4
+6.0,0,1,1,1,27,83,Software Engineer,4
+6.0,0,1,1,1,43,80,Software Engineer,4
+6.0,0,1,1,1,24,84,Software Engineer,4
+6.0,0,1,1,1,31,97,Software Engineer,4
+6.0,0,1,1,1,43,82,Software Engineer,4
+6.0,0,1,1,1,22,87,Software Engineer,4
+6.0,0,1,1,1,20,95,Software Engineer,4
+6.0,0,1,1,1,40,75,Software Engineer,4
+6.0,0,1,1,1,28,72,Software Engineer,4
+6.0,0,1,1,1,28,88,Software Engineer,4
+6.0,0,1,1,1,35,84,Software Engineer,4
+6.0,0,1,1,1,32,94,Software Engineer,4
+6.0,0,1,1,1,29,92,Software Engineer,4
+6.0,0,1,1,1,26,74,Software Engineer,4
+6.0,0,1,1,1,27,97,Software Engineer,4
+6.0,0,1,1,1,43,79,Software Engineer,4
+6.0,0,1,1,1,29,76,Software Engineer,4
+6.0,0,1,1,1,34,94,Software Engineer,4
+6.0,0,1,1,1,23,86,Software Engineer,4
+6.0,0,1,1,1,24,76,Software Engineer,4
+6.0,0,1,1,1,31,91,Software Engineer,4
+6.0,0,1,1,1,30,95,Software Engineer,4
+6.0,0,1,1,1,25,99,Software Engineer,4
+6.0,0,1,1,1,27,81,Software Engineer,4
+6.0,0,1,1,1,26,94,Software Engineer,4
+6.0,0,1,1,1,35,86,Software Engineer,4
+6.0,0,1,1,1,44,82,Software Engineer,4
+6.0,0,1,1,1,43,89,Software Engineer,4
+6.0,0,1,1,1,19,94,Software Engineer,4
+6.0,0,1,1,1,22,73,Software Engineer,4
+6.0,0,1,1,1,22,79,Software Engineer,4
+6.0,0,1,1,1,23,72,Software Engineer,4
+6.0,0,1,1,1,36,78,Software Engineer,4
+6.0,0,1,1,1,25,82,Software Engineer,4
+6.0,0,1,1,1,33,87,Software Engineer,4
+6.0,0,1,1,1,30,84,Software Engineer,4
+6.0,0,1,1,1,18,73,Software Engineer,4
+6.0,0,1,1,1,39,84,Software Engineer,4
+6.0,0,1,1,1,37,91,Software Engineer,4
+6.0,0,1,1,1,34,71,Software Engineer,4
+6.0,0,1,1,1,24,84,Software Engineer,4
+6.0,0,1,1,1,42,77,Software Engineer,4
+6.0,0,1,1,1,30,77,Software Engineer,4
+6.0,0,1,1,1,21,86,Software Engineer,4
+6.0,0,1,1,1,21,81,Software Engineer,4
+6.0,0,1,1,1,23,88,Software Engineer,4
+6.0,0,1,1,1,36,79,Software Engineer,4
+6.0,0,1,1,1,29,78,Software Engineer,4
+6.0,0,1,1,1,39,74,Software Engineer,4
+6.0,0,1,1,1,24,75,Software Engineer,4
+6.0,0,1,1,1,44,89,Software Engineer,4
+6.0,0,1,1,1,27,95,Software Engineer,4
+6.0,0,1,1,1,43,71,Software Engineer,4
+6.0,0,1,1,1,36,96,Software Engineer,4
+6.0,0,1,1,1,24,93,Software Engineer,4
+6.0,0,1,1,1,20,96,Software Engineer,4
+6.0,0,1,1,1,30,82,Software Engineer,4
+6.0,0,1,1,1,30,75,Software Engineer,4
+6.0,0,1,1,1,35,74,Software Engineer,4
+6.0,0,1,1,1,43,94,Software Engineer,4
+6.0,0,1,1,1,37,70,Software Engineer,4
+6.0,0,1,1,1,25,90,Software Engineer,4
+6.0,0,1,1,1,26,91,Software Engineer,4
+6.0,0,1,1,1,24,90,Software Engineer,4
+6.0,0,1,1,1,18,75,Software Engineer,4
+6.0,0,1,1,1,20,75,Software Engineer,4
+6.0,0,1,1,1,30,92,Software Engineer,4
+6.0,0,1,1,1,42,85,Software Engineer,4
+6.0,0,1,1,1,34,73,Software Engineer,4
+6.0,0,1,1,1,42,99,Software Engineer,4
+6.0,0,1,1,1,41,80,Software Engineer,4
+6.0,0,1,1,1,18,99,Software Engineer,4
+6.0,0,1,1,1,23,99,Software Engineer,4
+6.0,0,1,1,1,38,99,Software Engineer,4
+6.0,0,1,1,1,23,93,Software Engineer,4
+6.0,0,1,1,1,43,92,Software Engineer,4
+6.0,0,1,1,1,29,78,Software Engineer,4
+6.0,0,1,1,1,30,92,Software Engineer,4
+6.0,0,1,1,1,30,72,Software Engineer,4
+6.0,0,1,1,1,32,88,Software Engineer,4
+6.0,0,1,1,1,38,77,Software Engineer,4
+6.0,0,1,1,1,33,74,Software Engineer,4
+6.0,0,1,1,1,39,73,Software Engineer,4
+6.0,0,1,1,1,38,93,Software Engineer,4
+6.0,0,1,1,1,28,75,Software Engineer,4
+6.0,0,1,1,1,22,71,Software Engineer,4
+6.0,0,1,1,1,21,89,Software Engineer,4
+6.0,0,1,1,1,20,97,Software Engineer,4
+6.0,0,1,1,1,36,80,Software Engineer,4
+6.0,0,1,1,1,37,73,Software Engineer,4
+6.0,0,1,1,1,42,84,Software Engineer,4
+6.0,0,1,1,1,35,75,Software Engineer,4
+6.0,0,1,1,1,32,91,Software Engineer,4
+6.0,0,1,1,1,26,86,Software Engineer,4
+6.0,0,1,1,1,34,99,Software Engineer,4
+6.0,0,1,1,1,31,93,Software Engineer,4
+6.0,0,1,1,1,32,75,Software Engineer,4
+6.0,0,1,1,1,18,88,Software Engineer,4
+6.0,0,1,1,1,38,99,Software Engineer,4
+6.0,0,1,1,1,39,94,Software Engineer,4
+6.0,0,1,1,1,39,71,Software Engineer,4
+6.0,0,1,1,1,20,84,Software Engineer,4
+6.0,0,1,1,1,33,80,Software Engineer,4
+6.0,0,1,1,1,40,77,Software Engineer,4
+6.0,0,1,1,1,42,95,Software Engineer,4
+6.0,0,1,1,1,28,88,Software Engineer,4
+6.0,0,1,1,1,29,82,Software Engineer,4
+6.0,0,1,1,1,27,81,Software Engineer,4
+6.0,0,1,1,1,33,74,Software Engineer,4
+6.0,0,1,1,1,25,75,Software Engineer,4
+6.0,0,1,1,1,23,95,Software Engineer,4
+6.0,0,1,1,1,29,91,Software Engineer,4
+6.0,0,1,1,1,41,73,Software Engineer,4
+6.0,0,1,1,1,38,88,Software Engineer,4
+6.0,0,1,1,1,25,89,Software Engineer,4
+6.0,0,1,1,1,43,70,Software Engineer,4
+6.0,0,1,1,1,21,89,Software Engineer,4
+6.0,0,1,1,1,43,86,Software Engineer,4
+6.0,0,1,1,1,25,81,Software Engineer,4
+6.0,0,1,1,1,43,84,Software Engineer,4
+6.0,0,1,1,1,35,70,Software Engineer,4
+6.0,0,1,1,1,22,95,Software Engineer,4
+6.0,0,1,1,1,26,83,Software Engineer,4
+6.0,0,1,1,1,21,75,Software Engineer,4
+6.0,0,1,1,1,44,74,Software Engineer,4
+6.0,0,1,1,1,39,99,Software Engineer,4
+6.0,0,1,1,1,34,80,Software Engineer,4
+6.0,0,1,1,1,26,73,Software Engineer,4
+6.0,0,1,1,1,18,82,Software Engineer,4
+6.0,0,1,1,1,38,80,Software Engineer,4
+6.0,0,1,1,1,37,72,Software Engineer,4
+6.0,0,1,1,1,30,70,Software Engineer,4
+6.0,0,1,1,1,33,75,Software Engineer,4
+6.0,0,1,1,1,30,87,Software Engineer,4
+6.0,0,1,1,1,31,93,Software Engineer,4
+6.0,0,1,1,1,20,79,Software Engineer,4
+6.0,0,1,1,1,23,74,Software Engineer,4
+6.0,0,1,1,1,35,92,Software Engineer,4
+6.0,0,1,1,1,36,79,Software Engineer,4
+6.0,0,1,1,1,22,81,Software Engineer,4
+6.0,0,1,1,1,32,71,Software Engineer,4
+6.0,0,1,1,1,42,82,Software Engineer,4
+6.0,0,1,1,1,19,77,Software Engineer,4
+6.0,0,1,1,1,27,71,Software Engineer,4
+6.0,0,1,1,1,41,89,Software Engineer,4
+6.0,0,1,1,1,35,70,Software Engineer,4
+6.0,0,1,1,1,44,74,Software Engineer,4
+6.0,0,1,1,1,30,78,Software Engineer,4
+6.0,0,1,1,1,22,86,Software Engineer,4
+6.0,0,1,1,1,40,78,Software Engineer,4
+6.0,0,1,1,1,41,80,Software Engineer,4
+6.0,0,1,1,1,18,84,Software Engineer,4
+6.0,0,1,1,1,39,93,Software Engineer,4
+6.0,0,1,1,1,18,75,Software Engineer,4
+6.0,0,1,1,1,35,92,Software Engineer,4
+6.0,0,1,1,1,32,72,Software Engineer,4
+6.0,0,1,1,1,34,99,Software Engineer,4
+6.0,0,1,1,1,28,86,Software Engineer,4
+6.0,0,1,1,1,38,74,Software Engineer,4
+6.0,0,1,1,1,43,99,Software Engineer,4
+6.0,0,1,1,1,42,97,Software Engineer,4
+6.0,0,1,1,1,39,81,Software Engineer,4
+6.0,0,1,1,1,44,87,Software Engineer,4
+6.0,0,1,1,1,44,83,Software Engineer,4
+6.0,0,1,1,1,34,90,Software Engineer,4
+6.0,0,1,1,1,30,93,Software Engineer,4
+6.0,0,1,1,1,18,80,Software Engineer,4
+6.0,0,1,1,1,19,78,Software Engineer,4
+6.0,0,1,1,1,26,71,Software Engineer,4
+6.0,0,1,1,1,20,81,Software Engineer,4
+6.0,0,1,1,1,18,72,Software Engineer,4
+6.0,0,1,1,1,38,72,Software Engineer,4
+6.0,0,1,1,1,33,70,Software Engineer,4
+6.0,0,1,1,1,40,77,Software Engineer,4
